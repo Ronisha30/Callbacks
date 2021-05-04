@@ -1,0 +1,9 @@
+#backgroundC{
+    background-color: aqua;
+    margin-top: 100px;
+    text-align: center;
+}
+#show{
+    margin-top: 30px;
+    display: none;
+}
